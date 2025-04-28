@@ -30,23 +30,29 @@ right.setBoardSocket(dai.CameraBoardSocket.CAM_C)
 stereo.setDefaultProfilePreset(dai.node.StereoDepth.PresetMode.DEFAULT)
 stereo.initialConfig.setMedianFilter(dai.MedianFilter.KERNEL_7x7)  # Reduces noise
 stereo.setLeftRightCheck(True)
-stereo.setExtendedDisparity(False)  # Limits depth range to ~0.3-8m (better close-range acc). Disabling extends range but reduces precision.
-stereo.setSubpixel(False)  # Disables subpixel refinement (faster but less accurate depth edges).Enabling improves depth resolution at a performance cost.
+# stereo.setExtendedDisparity(False)  # Limits depth range to ~0.3-8m (better close-range accuracy).	Disabling extends range but reduces precision.
+# stereo.setSubpixel(False)  # Disables subpixel refinement (faster but less accurate depth edges).	Enabling improves depth resolution at a performance cost.
 stereo.setDepthAlign(dai.CameraBoardSocket.CAM_A)  # Aligns depth map to RGB camera perspective.
 
-# TODO: test long  vs short 
+# TODO: test the differences and see if any dip in accuracy etc 
 # Two stereo configurations, close vs longer range
-# close_range_config = {
-#   "subpixel": False,           # Faster, better for near
-#   "extendedDisparity": True,   # Helps close objects (<1m)
-#   "confidenceThreshold": 100,  # Lower threshold for near
-# }
+close_range_config = {
+  "subpixel": False,           # Faster, better for near
+  "extendedDisparity": True,   # Helps close objects (<1m)
+  "confidenceThreshold": 100,  # Lower threshold for near
+}
 
-# long_range_config = {
-#   "subpixel": True,            # Slower, better for far
-#   "extendedDisparity": False,  # Disable for >3m
-#   "confidenceThreshold": 200,  # Higher threshold to reduce noise
-# }
+long_range_config = {
+  "subpixel": True,            # Slower, better for far
+  "extendedDisparity": False,  # Disable for >3m
+  "confidenceThreshold": 200,  # Higher threshold to reduce noise
+}
+
+# Start with close-range config (default)
+current_config = close_range_config
+stereo.setSubpixel(current_config["subpixel"])
+stereo.setExtendedDisparity(current_config["extendedDisparity"])
+stereo.setConfidenceThreshold(current_config["confidenceThreshold"])
 
 # connect mono cams output to stereo input
 left.out.link(stereo.left)
@@ -79,16 +85,14 @@ with dai.Device(pipeline) as device:
     spatial_cfg_queue = device.getInputQueue("spatial_cfg")
 
     while True:
-        # Get rgb frame and run inference
+        # Get rgb frame
         rgb_frame = rgb_queue.get().getCvFrame()
+
+        # Run YOLO detection
         # Add NMS, Non-MAximum Suppression, to YOLO inference (reduces duplicate boxes)
-        # results = model(rgb_frame, iou=0.45, conf=0.35)  # Adjust thresholds, intersection over union and confidence
-        results = model.track(rgb_frame, persist=True, iou=0.35, conf=0.25, tracker="bytetrack.yaml", verbose=False)  # with tracking
-
+        # Adjust thresholds, intersection over union and confidence
+        results = model.track(rgb_frame, persist=True, iou=0.35, tracker="bytetrack.yaml", verbose=False)  # removed: conf=0.25
         detections = results[0].boxes
-
-        inference_time = results[0].speed['inference']  # YOLO's measured inference time
-        print(f"\nInference: {inference_time:.1f}ms")
 
         # Prepare ROIs for spatial calculator
         cfg = dai.SpatialLocationCalculatorConfig()
@@ -100,7 +104,7 @@ with dai.Device(pipeline) as device:
             x1, y1, x2, y2 = map(int, box.xyxy[0])
             # get class id and label
             class_id = int(box.cls[0])
-            label = model.names[int(box.cls[0])]
+            label = model.names[class_id]
 
             # Convert pixel coordinates to normalized coordinates (0-1)
             # for DepthAI spatial calculator (matches 1280x720 preview size)
@@ -125,7 +129,7 @@ with dai.Device(pipeline) as device:
                 # get depth data
                 spatial_data = spatial_queue.get().getSpatialLocations()
 
-                # process each depth
+                # process each depth 
                 for i, data in enumerate(spatial_data):
                     # Get Z coordinate (depth) in mm and convert to meters
                     z = data.spatialCoordinates.z
@@ -135,12 +139,6 @@ with dai.Device(pipeline) as device:
                     box = detections[i]
                     x1, y1, x2, y2 = map(int, box.xyxy[0])
                     label = model.names[int(box.cls[0])]
-
-                    obj_id = int(box.id[0]) if box.id is not None else -1
-                    conf = box.conf[0].item()
-
-                    # Custom print format using YOLO's detected values
-                    print(f"  {label} (ID: {obj_id}, Conf: {conf:.2f}): {distance_m:.2f}m")
 
                     # display label and distance above box
                     cv2.putText(rgb_frame, f"{label}: {distance_m:.2f}m", (x1, y1 - 10),

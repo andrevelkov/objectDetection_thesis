@@ -73,7 +73,7 @@ spatialCalc.out.link(xout_spatial.input)
 
 # Connect to device, main processing loop
 with dai.Device(pipeline) as device:
-    # Get cam and depth data queues
+    # Get cams and depth data queues
     rgb_queue = device.getOutputQueue("rgb", maxSize=4, blocking=False)
     spatial_queue = device.getOutputQueue("spatial", maxSize=4, blocking=False)
     spatial_cfg_queue = device.getInputQueue("spatial_cfg")
@@ -84,8 +84,9 @@ with dai.Device(pipeline) as device:
         # Add NMS, Non-MAximum Suppression, to YOLO inference (reduces duplicate boxes)
         # results = model(rgb_frame, iou=0.45, conf=0.35)  # Adjust thresholds, intersection over union and confidence
         results = model.track(rgb_frame, persist=True, iou=0.35, conf=0.25, tracker="bytetrack.yaml", verbose=False)  # with tracking
-
         detections = results[0].boxes
+
+        # Print inference time
         inference_time = results[0].speed['inference']  # YOLO's measured inference time
         print(f"\nInference: {inference_time:.1f}ms")
 
@@ -106,7 +107,7 @@ with dai.Device(pipeline) as device:
             topLeft = dai.Point2f(x1/1280, y1/720)
             bottomRight = dai.Point2f(x2/1280, y2/720)
 
-            # Create config data for each ROI
+            # Create config and add ROI
             roi_data = dai.SpatialLocationCalculatorConfigData()
             roi_data.roi = dai.Rect(topLeft, bottomRight)
             roi_datas.append(roi_data)

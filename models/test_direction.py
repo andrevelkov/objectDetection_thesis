@@ -55,6 +55,7 @@ xout_spatial = pipeline.create(dai.node.XLinkOut)
 xout_spatial.setStreamName("spatial")
 spatialCalc.out.link(xout_spatial.input)
 
+# TODO: what is this ?
 # Track history storage
 track_history = defaultdict(lambda: [])  # {track_id: [(x_center, y_center), ...]}
 

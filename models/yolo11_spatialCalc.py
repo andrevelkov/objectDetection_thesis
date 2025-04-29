@@ -13,7 +13,7 @@ pipeline = dai.Pipeline()
 cam_rgb = pipeline.create(dai.node.ColorCamera)
 cam_rgb.setPreviewSize(1280, 720)
 cam_rgb.setInterleaved(False)
-cam_rgb.setFps(30)  # Set camera FPS
+# cam_rgb.setFps(30)  # Set camera FPS
 
 # Stereo depth setup (left/right mono cameras + depth processing)
 left = pipeline.create(dai.node.MonoCamera)
@@ -57,6 +57,7 @@ spatialCalc = pipeline.create(dai.node.SpatialLocationCalculator)
 stereo.depth.link(spatialCalc.inputDepth)
 
 # Configure spatial calculator input
+# Creates an input link to send ROI (Region of Interest) data to the depth calculator
 spatial_cfg_in = pipeline.create(dai.node.XLinkIn)
 spatial_cfg_in.setStreamName("spatial_cfg")
 spatial_cfg_in.out.link(spatialCalc.inputConfig)
@@ -69,7 +70,6 @@ cam_rgb.preview.link(xout_rgb.input)
 xout_spatial = pipeline.create(dai.node.XLinkOut)
 xout_spatial.setStreamName("spatial")
 spatialCalc.out.link(xout_spatial.input)
-
 
 # Connect to device, main processing loop
 with dai.Device(pipeline) as device:
@@ -86,7 +86,6 @@ with dai.Device(pipeline) as device:
         results = model.track(rgb_frame, persist=True, iou=0.35, conf=0.25, tracker="bytetrack.yaml", verbose=False)  # with tracking
 
         detections = results[0].boxes
-
         inference_time = results[0].speed['inference']  # YOLO's measured inference time
         print(f"\nInference: {inference_time:.1f}ms")
 
@@ -140,7 +139,16 @@ with dai.Device(pipeline) as device:
                     conf = box.conf[0].item()
 
                     # Custom print format using YOLO's detected values
-                    print(f"  {label} (ID: {obj_id}, Conf: {conf:.2f}): {distance_m:.2f}m")
+                    # print(f"  {label} (ID: {obj_id}, Conf: {conf:.2f}): {distance_m:.2f}m")
+
+                    json_obj = {
+                        "name": label,
+                        "ID": obj_id,
+                        "Conf": round(conf, 2),
+                        "Distance": round(distance_m, 2),
+                    }
+
+                    print(json_obj)
 
                     # display label and distance above box
                     cv2.putText(rgb_frame, f"{label}: {distance_m:.2f}m", (x1, y1 - 10),

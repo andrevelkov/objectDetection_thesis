@@ -81,7 +81,11 @@ with dai.Device(pipeline) as device:
 
     while True:
         rgb_frame = rgb_queue.get().getCvFrame()
-        results = model.track(rgb_frame, persist=True, iou=0.35, conf=0.25, tracker="bytetrack.yaml", verbose=False)
+        frame_data = {
+            "timestamp": time.time(),
+            "objects": []  # Clear previous frame data
+        }
+        results = model.track(rgb_frame, persist=True, iou=0.35, conf=0.45, tracker="bytetrack.yaml", verbose=False)
         detections = results[0].boxes
 
         # Get tracking IDs (if available)
@@ -205,13 +209,11 @@ with dai.Device(pipeline) as device:
             # Print the JSON for this frame
             print(json.dumps(frame_data, indent=2))
 
-            # Save to a file (appending each frame)
-            # with open("tracking_data.json", "a") as f:
-            #     f.write(json.dumps(frame_data) + "\n")  # Newline separated JSON
-
         cv2.imshow("RGB + Tracking + Direction", rgb_frame)
         if cv2.waitKey(1) == ord("q"):
             break
+
+# TODO: currently saves multiple of same object in same frame, look into if we can save less instances ?
 
 # After the main loop ends, save all data to a single JSON file
 with open("structured_tracking_data.json", "w") as f:

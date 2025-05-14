@@ -1,3201 +1,2561 @@
 [
   {
-    "timestamp": 1746467910.653696,
+    "timestamp": 1747213996.5256038,
     "objects": [
       {
-        "name": "vase",
-        "ID": 2,
-        "Conf": 0.3,
-        "Distance": 4.25,
-        "Position": {
-          "x": 268.0,
-          "y": 469.5,
-          "z": 4250.08544921875
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 353.5,
-          "y": 314.0,
-          "z": 3400.068359375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 491.5,
-          "y": 260.0,
-          "z": 3400.068359375
-        },
-        "Prediction": {
-          "x": 373.1666666666667,
-          "y": 271.0
-        }
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
+        "name": "chair",
         "ID": 7,
         "Conf": 0.32,
-        "Distance": 11.33,
+        "Distance": 3.09,
         "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.3,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 244.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.34,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.37,
-        "Distance": 0.0,
-        "Position": {
-          "x": 697.0,
-          "y": 268.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "couch",
-        "ID": 13,
-        "Conf": 0.37,
-        "Distance": 11.33,
-        "Position": {
-          "x": 764.5,
-          "y": 360.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.33,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.31,
-        "Distance": 0.0,
-        "Position": {
-          "x": 795.0,
-          "y": 309.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "vase",
-        "ID": 19,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 621.0,
-          "y": 391.0,
-          "z": 11333.5615234375
+          "x": 588.5,
+          "y": 447.0,
+          "z": 3090.97119140625
         },
         "Prediction": null
       }
     ]
   },
   {
-    "timestamp": 1746467910.653696,
+    "timestamp": 1747213998.672414,
     "objects": [
       {
-        "name": "vase",
-        "ID": 2,
-        "Conf": 0.3,
-        "Distance": 4.25,
-        "Position": {
-          "x": 268.0,
-          "y": 469.5,
-          "z": 4250.08544921875
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 353.5,
-          "y": 314.0,
-          "z": 3400.068359375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 491.5,
-          "y": 260.0,
-          "z": 3400.068359375
-        },
-        "Prediction": {
-          "x": 373.1666666666667,
-          "y": 271.0
-        }
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.32,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.3,
+        "name": "mouse",
+        "ID": -1,
+        "Conf": 0.25,
         "Distance": 0.0,
         "Position": {
-          "x": 691.5,
-          "y": 244.0,
+          "x": 7.0,
+          "y": 401.5,
           "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.34,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.37,
-        "Distance": 0.0,
-        "Position": {
-          "x": 697.0,
-          "y": 268.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "couch",
-        "ID": 13,
-        "Conf": 0.37,
-        "Distance": 11.33,
-        "Position": {
-          "x": 764.5,
-          "y": 360.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.33,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.31,
-        "Distance": 0.0,
-        "Position": {
-          "x": 795.0,
-          "y": 309.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "vase",
-        "ID": 19,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 621.0,
-          "y": 391.0,
-          "z": 11333.5615234375
         },
         "Prediction": null
       }
     ]
   },
   {
-    "timestamp": 1746467910.653696,
+    "timestamp": 1747213998.9582906,
     "objects": [
       {
-        "name": "vase",
-        "ID": 2,
-        "Conf": 0.3,
-        "Distance": 4.25,
+        "name": "keyboard",
+        "ID": 11,
+        "Conf": 0.48,
+        "Distance": 1.31,
         "Position": {
-          "x": 268.0,
-          "y": 469.5,
-          "z": 4250.08544921875
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 353.5,
-          "y": 314.0,
-          "z": 3400.068359375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 491.5,
-          "y": 260.0,
-          "z": 3400.068359375
-        },
-        "Prediction": {
-          "x": 373.1666666666667,
-          "y": 271.0
-        }
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.32,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.3,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 244.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.34,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.37,
-        "Distance": 0.0,
-        "Position": {
-          "x": 697.0,
-          "y": 268.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "couch",
-        "ID": 13,
-        "Conf": 0.37,
-        "Distance": 11.33,
-        "Position": {
-          "x": 764.5,
-          "y": 360.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.33,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.31,
-        "Distance": 0.0,
-        "Position": {
-          "x": 795.0,
-          "y": 309.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "vase",
-        "ID": 19,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 621.0,
-          "y": 391.0,
-          "z": 11333.5615234375
+          "x": 25.5,
+          "y": 532.0,
+          "z": 1307.7186279296875
         },
         "Prediction": null
       }
     ]
   },
   {
-    "timestamp": 1746467910.653696,
+    "timestamp": 1747213999.2166827,
     "objects": [
       {
-        "name": "vase",
-        "ID": 2,
-        "Conf": 0.3,
-        "Distance": 4.25,
+        "name": "keyboard",
+        "ID": 11,
+        "Conf": 0.72,
+        "Distance": 1.31,
         "Position": {
-          "x": 268.0,
-          "y": 469.5,
-          "z": 4250.08544921875
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 353.5,
-          "y": 314.0,
-          "z": 3400.068359375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 491.5,
-          "y": 260.0,
-          "z": 3400.068359375
-        },
-        "Prediction": {
-          "x": 373.1666666666667,
-          "y": 271.0
-        }
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.32,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.3,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 244.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.34,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.37,
-        "Distance": 0.0,
-        "Position": {
-          "x": 697.0,
-          "y": 268.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "couch",
-        "ID": 13,
-        "Conf": 0.37,
-        "Distance": 11.33,
-        "Position": {
-          "x": 764.5,
-          "y": 360.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.33,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.31,
-        "Distance": 0.0,
-        "Position": {
-          "x": 795.0,
-          "y": 309.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "vase",
-        "ID": 19,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 621.0,
-          "y": 391.0,
-          "z": 11333.5615234375
+          "x": 23.0,
+          "y": 532.0,
+          "z": 1307.7186279296875
         },
         "Prediction": null
       }
     ]
   },
   {
-    "timestamp": 1746467910.653696,
+    "timestamp": 1747213999.489225,
     "objects": [
       {
-        "name": "vase",
-        "ID": 2,
-        "Conf": 0.3,
-        "Distance": 4.25,
+        "name": "keyboard",
+        "ID": 11,
+        "Conf": 0.64,
+        "Distance": 1.48,
         "Position": {
-          "x": 268.0,
-          "y": 469.5,
-          "z": 4250.08544921875
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 353.5,
-          "y": 314.0,
-          "z": 3400.068359375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 491.5,
-          "y": 260.0,
-          "z": 3400.068359375
-        },
-        "Prediction": {
-          "x": 373.1666666666667,
-          "y": 271.0
-        }
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.32,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.3,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 244.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.34,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.37,
-        "Distance": 0.0,
-        "Position": {
-          "x": 697.0,
-          "y": 268.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "couch",
-        "ID": 13,
-        "Conf": 0.37,
-        "Distance": 11.33,
-        "Position": {
-          "x": 764.5,
-          "y": 360.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.33,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.31,
-        "Distance": 0.0,
-        "Position": {
-          "x": 795.0,
-          "y": 309.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "vase",
-        "ID": 19,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 621.0,
-          "y": 391.0,
-          "z": 11333.5615234375
+          "x": 21.0,
+          "y": 524.0,
+          "z": 1478.2906494140625
         },
         "Prediction": null
       }
     ]
   },
   {
-    "timestamp": 1746467910.653696,
+    "timestamp": 1747213999.7424004,
     "objects": [
       {
-        "name": "vase",
-        "ID": 2,
-        "Conf": 0.3,
-        "Distance": 4.25,
+        "name": "keyboard",
+        "ID": 11,
+        "Conf": 0.51,
+        "Distance": 1.36,
         "Position": {
-          "x": 268.0,
-          "y": 469.5,
-          "z": 4250.08544921875
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 353.5,
-          "y": 314.0,
-          "z": 3400.068359375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 491.5,
-          "y": 260.0,
-          "z": 3400.068359375
-        },
-        "Prediction": {
-          "x": 373.1666666666667,
-          "y": 271.0
-        }
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.32,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.3,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 244.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.34,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.37,
-        "Distance": 0.0,
-        "Position": {
-          "x": 697.0,
-          "y": 268.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "couch",
-        "ID": 13,
-        "Conf": 0.37,
-        "Distance": 11.33,
-        "Position": {
-          "x": 764.5,
-          "y": 360.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.33,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.31,
-        "Distance": 0.0,
-        "Position": {
-          "x": 795.0,
-          "y": 309.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "vase",
-        "ID": 19,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 621.0,
-          "y": 391.0,
-          "z": 11333.5615234375
+          "x": 24.0,
+          "y": 377.5,
+          "z": 1360.02734375
         },
         "Prediction": null
       }
     ]
   },
   {
-    "timestamp": 1746467910.653696,
+    "timestamp": 1747214000.014534,
     "objects": [
       {
-        "name": "vase",
-        "ID": 2,
-        "Conf": 0.3,
-        "Distance": 4.25,
+        "name": "tv",
+        "ID": 9,
+        "Conf": 0.36,
+        "Distance": 2.27,
         "Position": {
-          "x": 268.0,
-          "y": 469.5,
-          "z": 4250.08544921875
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 353.5,
-          "y": 314.0,
-          "z": 3400.068359375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 491.5,
-          "y": 260.0,
-          "z": 3400.068359375
-        },
-        "Prediction": {
-          "x": 373.1666666666667,
-          "y": 271.0
-        }
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.32,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.3,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 244.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.34,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.37,
-        "Distance": 0.0,
-        "Position": {
-          "x": 697.0,
-          "y": 268.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "couch",
-        "ID": 13,
-        "Conf": 0.37,
-        "Distance": 11.33,
-        "Position": {
-          "x": 764.5,
-          "y": 360.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.33,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.31,
-        "Distance": 0.0,
-        "Position": {
-          "x": 795.0,
-          "y": 309.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "vase",
-        "ID": 19,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 621.0,
-          "y": 391.0,
-          "z": 11333.5615234375
+          "x": 21.0,
+          "y": 216.0,
+          "z": 2266.712158203125
         },
         "Prediction": null
       }
     ]
   },
   {
-    "timestamp": 1746467910.653696,
+    "timestamp": 1747214000.2874565,
     "objects": [
       {
-        "name": "vase",
-        "ID": 2,
-        "Conf": 0.3,
-        "Distance": 4.25,
+        "name": "tv",
+        "ID": 9,
+        "Conf": 0.58,
+        "Distance": 2.27,
         "Position": {
-          "x": 268.0,
-          "y": 469.5,
-          "z": 4250.08544921875
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 353.5,
-          "y": 314.0,
-          "z": 3400.068359375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 491.5,
-          "y": 260.0,
-          "z": 3400.068359375
-        },
-        "Prediction": {
-          "x": 373.1666666666667,
-          "y": 271.0
-        }
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.32,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.3,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 244.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.34,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.37,
-        "Distance": 0.0,
-        "Position": {
-          "x": 697.0,
-          "y": 268.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "couch",
-        "ID": 13,
-        "Conf": 0.37,
-        "Distance": 11.33,
-        "Position": {
-          "x": 764.5,
-          "y": 360.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.33,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.31,
-        "Distance": 0.0,
-        "Position": {
-          "x": 795.0,
-          "y": 309.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "vase",
-        "ID": 19,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 621.0,
-          "y": 391.0,
-          "z": 11333.5615234375
+          "x": 24.0,
+          "y": 225.5,
+          "z": 2266.712158203125
         },
         "Prediction": null
       }
     ]
   },
   {
-    "timestamp": 1746467910.653696,
+    "timestamp": 1747214000.54427,
     "objects": [
       {
-        "name": "vase",
-        "ID": 2,
-        "Conf": 0.3,
-        "Distance": 4.25,
+        "name": "tv",
+        "ID": 9,
+        "Conf": 0.64,
+        "Distance": 2.27,
         "Position": {
-          "x": 268.0,
-          "y": 469.5,
-          "z": 4250.08544921875
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 353.5,
-          "y": 314.0,
-          "z": 3400.068359375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 491.5,
-          "y": 260.0,
-          "z": 3400.068359375
-        },
-        "Prediction": {
-          "x": 373.1666666666667,
-          "y": 271.0
-        }
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.32,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.3,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 244.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.34,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.37,
-        "Distance": 0.0,
-        "Position": {
-          "x": 697.0,
-          "y": 268.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "couch",
-        "ID": 13,
-        "Conf": 0.37,
-        "Distance": 11.33,
-        "Position": {
-          "x": 764.5,
-          "y": 360.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.33,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.31,
-        "Distance": 0.0,
-        "Position": {
-          "x": 795.0,
-          "y": 309.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "vase",
-        "ID": 19,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 621.0,
-          "y": 391.0,
-          "z": 11333.5615234375
+          "x": 25.0,
+          "y": 237.0,
+          "z": 2266.712158203125
         },
         "Prediction": null
       }
     ]
   },
   {
-    "timestamp": 1746467910.653696,
+    "timestamp": 1747214000.8146791,
     "objects": [
       {
-        "name": "vase",
-        "ID": 2,
-        "Conf": 0.3,
-        "Distance": 4.25,
+        "name": "tv",
+        "ID": 9,
+        "Conf": 0.74,
+        "Distance": 2.27,
         "Position": {
-          "x": 268.0,
-          "y": 469.5,
-          "z": 4250.08544921875
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 353.5,
-          "y": 314.0,
-          "z": 3400.068359375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 491.5,
-          "y": 260.0,
-          "z": 3400.068359375
-        },
-        "Prediction": {
-          "x": 373.1666666666667,
-          "y": 271.0
-        }
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.32,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.3,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 244.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.34,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.37,
-        "Distance": 0.0,
-        "Position": {
-          "x": 697.0,
-          "y": 268.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "couch",
-        "ID": 13,
-        "Conf": 0.37,
-        "Distance": 11.33,
-        "Position": {
-          "x": 764.5,
-          "y": 360.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.33,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.31,
-        "Distance": 0.0,
-        "Position": {
-          "x": 795.0,
-          "y": 309.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "vase",
-        "ID": 19,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 621.0,
-          "y": 391.0,
-          "z": 11333.5615234375
+          "x": 27.0,
+          "y": 249.5,
+          "z": 2266.712158203125
         },
         "Prediction": null
       }
     ]
   },
   {
-    "timestamp": 1746467910.653696,
+    "timestamp": 1747214001.0579095,
     "objects": [
       {
-        "name": "vase",
-        "ID": 2,
-        "Conf": 0.3,
-        "Distance": 4.25,
+        "name": "tv",
+        "ID": 9,
+        "Conf": 0.83,
+        "Distance": 2.27,
         "Position": {
-          "x": 268.0,
-          "y": 469.5,
-          "z": 4250.08544921875
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 353.5,
-          "y": 314.0,
-          "z": 3400.068359375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 491.5,
-          "y": 260.0,
-          "z": 3400.068359375
-        },
-        "Prediction": {
-          "x": 373.1666666666667,
-          "y": 271.0
-        }
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.32,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.3,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 244.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.34,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.37,
-        "Distance": 0.0,
-        "Position": {
-          "x": 697.0,
-          "y": 268.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "couch",
-        "ID": 13,
-        "Conf": 0.37,
-        "Distance": 11.33,
-        "Position": {
-          "x": 764.5,
-          "y": 360.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.33,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.31,
-        "Distance": 0.0,
-        "Position": {
-          "x": 795.0,
-          "y": 309.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "vase",
-        "ID": 19,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 621.0,
-          "y": 391.0,
-          "z": 11333.5615234375
+          "x": 30.5,
+          "y": 256.5,
+          "z": 2266.712158203125
         },
         "Prediction": null
       }
     ]
   },
   {
-    "timestamp": 1746467910.653696,
+    "timestamp": 1747214001.3093925,
     "objects": [
       {
-        "name": "vase",
-        "ID": 2,
-        "Conf": 0.3,
-        "Distance": 4.25,
+        "name": "tv",
+        "ID": 9,
+        "Conf": 0.84,
+        "Distance": 2.27,
         "Position": {
-          "x": 268.0,
-          "y": 469.5,
-          "z": 4250.08544921875
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 353.5,
-          "y": 314.0,
-          "z": 3400.068359375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 491.5,
-          "y": 260.0,
-          "z": 3400.068359375
+          "x": 10.5,
+          "y": 310.0,
+          "z": 2266.712158203125
         },
         "Prediction": {
-          "x": 373.1666666666667,
-          "y": 271.0
+          "x": 368.1666666666667,
+          "y": 370.5
         }
-      },
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214001.5687506,
+    "objects": [
       {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.35,
-        "Distance": 11.33,
+        "name": "tv",
+        "ID": 9,
+        "Conf": 0.79,
+        "Distance": 2.27,
         "Position": {
-          "x": 727.5,
-          "y": 330.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.32,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.3,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 244.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.34,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.37,
-        "Distance": 0.0,
-        "Position": {
-          "x": 697.0,
-          "y": 268.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "couch",
-        "ID": 13,
-        "Conf": 0.37,
-        "Distance": 11.33,
-        "Position": {
-          "x": 764.5,
-          "y": 360.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.33,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.31,
-        "Distance": 0.0,
-        "Position": {
-          "x": 795.0,
-          "y": 309.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "vase",
-        "ID": 19,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 621.0,
-          "y": 391.0,
-          "z": 11333.5615234375
+          "x": 32.0,
+          "y": 261.0,
+          "z": 2266.712158203125
         },
         "Prediction": null
       }
     ]
   },
   {
-    "timestamp": 1746467910.653696,
+    "timestamp": 1747214001.829654,
     "objects": [
       {
-        "name": "vase",
-        "ID": 2,
-        "Conf": 0.3,
-        "Distance": 4.25,
+        "name": "chair",
+        "ID": 10,
+        "Conf": 0.6,
+        "Distance": 2.62,
         "Position": {
-          "x": 268.0,
-          "y": 469.5,
-          "z": 4250.08544921875
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 353.5,
-          "y": 314.0,
-          "z": 3400.068359375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 491.5,
-          "y": 260.0,
-          "z": 3400.068359375
+          "x": 339.5,
+          "y": 456.5,
+          "z": 2615.437255859375
         },
         "Prediction": {
-          "x": 373.1666666666667,
-          "y": 271.0
+          "x": 321.8333333333333,
+          "y": 481.8333333333333
         }
-      },
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214002.1028502,
+    "objects": [
       {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.35,
-        "Distance": 11.33,
+        "name": "chair",
+        "ID": 10,
+        "Conf": 0.63,
+        "Distance": 1.55,
         "Position": {
-          "x": 727.5,
-          "y": 330.5,
-          "z": 11333.5615234375
+          "x": 317.0,
+          "y": 456.0,
+          "z": 1545.485595703125
         },
-        "Prediction": null
-      },
+        "Prediction": {
+          "x": 293.1666666666667,
+          "y": 460.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214002.3647792,
+    "objects": [
       {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.32,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
+        "name": "chair",
+        "ID": 10,
         "Conf": 0.41,
-        "Distance": 11.33,
+        "Distance": 1.55,
         "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.3,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 244.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.34,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.37,
-        "Distance": 0.0,
-        "Position": {
-          "x": 697.0,
-          "y": 268.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "couch",
-        "ID": 13,
-        "Conf": 0.37,
-        "Distance": 11.33,
-        "Position": {
-          "x": 764.5,
-          "y": 360.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.33,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.31,
-        "Distance": 0.0,
-        "Position": {
-          "x": 795.0,
-          "y": 309.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "vase",
-        "ID": 19,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 621.0,
-          "y": 391.0,
-          "z": 11333.5615234375
+          "x": 303.5,
+          "y": 459.0,
+          "z": 1545.485595703125
         },
         "Prediction": null
       }
     ]
   },
   {
-    "timestamp": 1746467910.653696,
+    "timestamp": 1747214002.625171,
     "objects": [
       {
-        "name": "vase",
-        "ID": 2,
-        "Conf": 0.3,
-        "Distance": 4.25,
+        "name": "chair",
+        "ID": 10,
+        "Conf": 0.56,
+        "Distance": 1.48,
         "Position": {
-          "x": 268.0,
-          "y": 469.5,
-          "z": 4250.08544921875
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 353.5,
-          "y": 314.0,
-          "z": 3400.068359375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 491.5,
-          "y": 260.0,
-          "z": 3400.068359375
-        },
-        "Prediction": {
-          "x": 373.1666666666667,
-          "y": 271.0
-        }
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.32,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.3,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 244.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.34,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.37,
-        "Distance": 0.0,
-        "Position": {
-          "x": 697.0,
-          "y": 268.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "couch",
-        "ID": 13,
-        "Conf": 0.37,
-        "Distance": 11.33,
-        "Position": {
-          "x": 764.5,
-          "y": 360.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.33,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.31,
-        "Distance": 0.0,
-        "Position": {
-          "x": 795.0,
-          "y": 309.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "vase",
-        "ID": 19,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 621.0,
-          "y": 391.0,
-          "z": 11333.5615234375
+          "x": 296.5,
+          "y": 460.5,
+          "z": 1478.2906494140625
         },
         "Prediction": null
       }
     ]
   },
   {
-    "timestamp": 1746467910.653696,
+    "timestamp": 1747214002.8711846,
     "objects": [
       {
-        "name": "vase",
-        "ID": 2,
-        "Conf": 0.3,
-        "Distance": 4.25,
+        "name": "chair",
+        "ID": 10,
+        "Conf": 0.5,
+        "Distance": 1.48,
         "Position": {
-          "x": 268.0,
-          "y": 469.5,
-          "z": 4250.08544921875
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 353.5,
-          "y": 314.0,
-          "z": 3400.068359375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
-        "Position": {
-          "x": 491.5,
-          "y": 260.0,
-          "z": 3400.068359375
-        },
-        "Prediction": {
-          "x": 373.1666666666667,
-          "y": 271.0
-        }
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.32,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.3,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 244.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.34,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.37,
-        "Distance": 0.0,
-        "Position": {
-          "x": 697.0,
-          "y": 268.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "couch",
-        "ID": 13,
-        "Conf": 0.37,
-        "Distance": 11.33,
-        "Position": {
-          "x": 764.5,
-          "y": 360.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.33,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.31,
-        "Distance": 0.0,
-        "Position": {
-          "x": 795.0,
-          "y": 309.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "vase",
-        "ID": 19,
-        "Conf": 0.35,
-        "Distance": 11.33,
-        "Position": {
-          "x": 621.0,
-          "y": 391.0,
-          "z": 11333.5615234375
+          "x": 301.5,
+          "y": 454.5,
+          "z": 1478.2906494140625
         },
         "Prediction": null
       }
     ]
   },
   {
-    "timestamp": 1746467910.653696,
+    "timestamp": 1747214003.1286976,
     "objects": [
       {
-        "name": "vase",
+        "name": "chair",
+        "ID": 10,
+        "Conf": 0.67,
+        "Distance": 1.48,
+        "Position": {
+          "x": 295.0,
+          "y": 434.5,
+          "z": 1478.2906494140625
+        },
+        "Prediction": null
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214003.3958068,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 10,
+        "Conf": 0.59,
+        "Distance": 1.48,
+        "Position": {
+          "x": 282.0,
+          "y": 402.0,
+          "z": 1478.2906494140625
+        },
+        "Prediction": {
+          "x": 271.1666666666667,
+          "y": 373.6666666666667
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214003.6572707,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 10,
+        "Conf": 0.56,
+        "Distance": 1.48,
+        "Position": {
+          "x": 267.0,
+          "y": 393.0,
+          "z": 1478.2906494140625
+        },
+        "Prediction": {
+          "x": 252.66666666666669,
+          "y": 376.1666666666667
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214003.919717,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 10,
+        "Conf": 0.74,
+        "Distance": 1.48,
+        "Position": {
+          "x": 246.0,
+          "y": 388.5,
+          "z": 1478.2906494140625
+        },
+        "Prediction": null
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214004.1833408,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 10,
+        "Conf": 0.44,
+        "Distance": 1.42,
+        "Position": {
+          "x": 234.5,
+          "y": 389.0,
+          "z": 1416.6951904296875
+        },
+        "Prediction": null
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214004.4421606,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 10,
+        "Conf": 0.59,
+        "Distance": 1.48,
+        "Position": {
+          "x": 228.5,
+          "y": 391.0,
+          "z": 1478.2906494140625
+        },
+        "Prediction": null
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214004.697951,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 10,
+        "Conf": 0.55,
+        "Distance": 2.62,
+        "Position": {
+          "x": 187.0,
+          "y": 396.0,
+          "z": 2615.437255859375
+        },
+        "Prediction": null
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214004.951516,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 10,
+        "Conf": 0.45,
+        "Distance": 1.36,
+        "Position": {
+          "x": 162.0,
+          "y": 394.0,
+          "z": 1360.02734375
+        },
+        "Prediction": {
+          "x": 131.5,
+          "y": 394.3333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214005.207229,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 10,
+        "Conf": 0.59,
+        "Distance": 1.31,
+        "Position": {
+          "x": 181.0,
+          "y": 383.0,
+          "z": 1307.7186279296875
+        },
+        "Prediction": {
+          "x": 240.16666666666669,
+          "y": 46.166666666666664
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214005.4494987,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 10,
+        "Conf": 0.77,
+        "Distance": 1.21,
+        "Position": {
+          "x": 229.0,
+          "y": 368.0,
+          "z": 1214.3101806640625
+        },
+        "Prediction": {
+          "x": 267.33333333333337,
+          "y": 354.3333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214005.7108786,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 10,
+        "Conf": 0.77,
+        "Distance": 1.36,
+        "Position": {
+          "x": 285.0,
+          "y": 358.5,
+          "z": 1360.02734375
+        },
+        "Prediction": {
+          "x": 338.33333333333337,
+          "y": 347.1666666666667
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214005.9710472,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 10,
+        "Conf": 0.55,
+        "Distance": 1.31,
+        "Position": {
+          "x": 152.5,
+          "y": 335.5,
+          "z": 1307.7186279296875
+        },
+        "Prediction": {
+          "x": 370.3333333333333,
+          "y": 348.6666666666667
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214006.2315178,
+    "objects": [
+      {
+        "name": "keyboard",
+        "ID": 9,
+        "Conf": 0.5,
+        "Distance": 1.17,
+        "Position": {
+          "x": 51.0,
+          "y": 484.0,
+          "z": 1172.4373779296875
+        },
+        "Prediction": {
+          "x": 395.0,
+          "y": 339.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214006.4944496,
+    "objects": [
+      {
+        "name": "keyboard",
+        "ID": 9,
+        "Conf": 0.41,
+        "Distance": 1.17,
+        "Position": {
+          "x": 80.5,
+          "y": 485.0,
+          "z": 1172.4373779296875
+        },
+        "Prediction": {
+          "x": 463.6666666666667,
+          "y": 334.6666666666667
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214006.7676096,
+    "objects": [
+      {
+        "name": "mouse",
+        "ID": 31,
+        "Conf": 0.79,
+        "Distance": 1.17,
+        "Position": {
+          "x": 87.0,
+          "y": 269.0,
+          "z": 1172.4373779296875
+        },
+        "Prediction": {
+          "x": 495.3333333333333,
+          "y": 327.5
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214007.0387893,
+    "objects": [
+      {
+        "name": "tv",
         "ID": 2,
-        "Conf": 0.3,
+        "Conf": 0.85,
+        "Distance": 2.13,
+        "Position": {
+          "x": 74.0,
+          "y": 123.5,
+          "z": 2125.042724609375
+        },
+        "Prediction": {
+          "x": 240.16666666666669,
+          "y": 46.166666666666664
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214007.2851112,
+    "objects": [
+      {
+        "name": "tv",
+        "ID": 2,
+        "Conf": 0.87,
+        "Distance": 2.13,
+        "Position": {
+          "x": 69.0,
+          "y": 120.5,
+          "z": 2125.042724609375
+        },
+        "Prediction": {
+          "x": 240.16666666666669,
+          "y": 46.166666666666664
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214007.550035,
+    "objects": [
+      {
+        "name": "tv",
+        "ID": 2,
+        "Conf": 0.77,
+        "Distance": 2.13,
+        "Position": {
+          "x": 61.5,
+          "y": 314.0,
+          "z": 2125.042724609375
+        },
+        "Prediction": {
+          "x": 240.16666666666669,
+          "y": 46.166666666666664
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214007.8124602,
+    "objects": [
+      {
+        "name": "tv",
+        "ID": 2,
+        "Conf": 0.82,
+        "Distance": 1.55,
+        "Position": {
+          "x": 54.5,
+          "y": 115.0,
+          "z": 1545.485595703125
+        },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214008.0736008,
+    "objects": [
+      {
+        "name": "tv",
+        "ID": 2,
+        "Conf": 0.53,
+        "Distance": 2.62,
+        "Position": {
+          "x": 48.5,
+          "y": 106.5,
+          "z": 2615.437255859375
+        },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214008.3313982,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 38,
+        "Conf": 0.7,
+        "Distance": 0.92,
+        "Position": {
+          "x": 323.0,
+          "y": 379.5,
+          "z": 918.9373779296875
+        },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214008.5878747,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": -1,
+        "Conf": 0.66,
+        "Distance": 2.83,
+        "Position": {
+          "x": 310.0,
+          "y": 54.5,
+          "z": 2833.390380859375
+        },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214008.8354475,
+    "objects": [
+      {
+        "name": "bed",
+        "ID": -1,
+        "Conf": 0.25,
+        "Distance": 3.09,
+        "Position": {
+          "x": 954.5,
+          "y": 669.5,
+          "z": 3090.97119140625
+        },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214009.3452547,
+    "objects": [
+      {
+        "name": "couch",
+        "ID": -1,
+        "Conf": 0.54,
+        "Distance": 2.43,
+        "Position": {
+          "x": 1143.5,
+          "y": 225.5,
+          "z": 2428.620361328125
+        },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214009.6021836,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 10,
+        "Conf": 0.75,
+        "Distance": 2.62,
+        "Position": {
+          "x": 454.0,
+          "y": 123.0,
+          "z": 2615.437255859375
+        },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214009.8603492,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": -1,
+        "Conf": 0.86,
         "Distance": 4.25,
         "Position": {
-          "x": 268.0,
-          "y": 469.5,
+          "x": 382.5,
+          "y": 210.0,
           "z": 4250.08544921875
         },
-        "Prediction": null
-      },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214010.1189132,
+    "objects": [
       {
         "name": "potted plant",
-        "ID": 1,
-        "Conf": 0.9,
-        "Distance": 3.4,
+        "ID": 38,
+        "Conf": 0.88,
+        "Distance": 0.0,
         "Position": {
-          "x": 353.5,
-          "y": 314.0,
-          "z": 3400.068359375
+          "x": 389.0,
+          "y": 216.5,
+          "z": 0.0
         },
-        "Prediction": null
-      },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214010.3850145,
+    "objects": [
       {
         "name": "potted plant",
-        "ID": 1,
+        "ID": 38,
+        "Conf": 0.89,
+        "Distance": 3.78,
+        "Position": {
+          "x": 395.5,
+          "y": 183.5,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 421.8333333333333,
+          "y": 107.16666666666669
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214010.6476312,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 38,
         "Conf": 0.9,
+        "Distance": 3.78,
+        "Position": {
+          "x": 383.0,
+          "y": 238.0,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214010.912732,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 67,
+        "Conf": 0.48,
+        "Distance": 4.25,
+        "Position": {
+          "x": 751.5,
+          "y": 356.0,
+          "z": 4250.08544921875
+        },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214011.1786687,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 61,
+        "Conf": 0.87,
+        "Distance": 0.0,
+        "Position": {
+          "x": 349.5,
+          "y": 186.5,
+          "z": 0.0
+        },
+        "Prediction": {
+          "x": 348.8333333333333,
+          "y": 158.5
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214011.4411316,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 61,
+        "Conf": 0.84,
+        "Distance": 4.25,
+        "Position": {
+          "x": 771.0,
+          "y": 385.0,
+          "z": 4250.08544921875
+        },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214011.705309,
+    "objects": [
+      {
+        "name": "couch",
+        "ID": 75,
+        "Conf": 0.33,
+        "Distance": 4.25,
+        "Position": {
+          "x": 343.5,
+          "y": 243.0,
+          "z": 4250.08544921875
+        },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214011.9669054,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 75,
+        "Conf": 0.5,
+        "Distance": 4.25,
+        "Position": {
+          "x": 233.5,
+          "y": 140.5,
+          "z": 4250.08544921875
+        },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214012.2237582,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 67,
+        "Conf": 0.4,
+        "Distance": 3.78,
+        "Position": {
+          "x": 729.0,
+          "y": 356.0,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 268.3333333333333,
+          "y": 248.66666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214012.4846525,
+    "objects": [
+      {
+        "name": "sports ball",
+        "ID": 70,
+        "Conf": 0.46,
+        "Distance": 3.78,
+        "Position": {
+          "x": 1162.0,
+          "y": 576.5,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214012.7428036,
+    "objects": [
+      {
+        "name": "sports ball",
+        "ID": 70,
+        "Conf": 0.44,
+        "Distance": 2.43,
+        "Position": {
+          "x": 1032.5,
+          "y": 512.5,
+          "z": 2428.620361328125
+        },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214013.0058935,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 89,
+        "Conf": 0.41,
         "Distance": 3.4,
         "Position": {
-          "x": 491.5,
-          "y": 260.0,
+          "x": 967.0,
+          "y": 473.5,
           "z": 3400.068359375
         },
         "Prediction": {
-          "x": 373.1666666666667,
-          "y": 271.0
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
         }
-      },
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214013.2635043,
+    "objects": [
       {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.35,
-        "Distance": 11.33,
+        "name": "chair",
+        "ID": 89,
+        "Conf": 0.38,
+        "Distance": 3.4,
         "Position": {
-          "x": 727.5,
-          "y": 330.5,
-          "z": 11333.5615234375
+          "x": 666.0,
+          "y": 347.5,
+          "z": 3400.068359375
         },
-        "Prediction": null
-      },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214013.5267317,
+    "objects": [
       {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.32,
-        "Distance": 11.33,
+        "name": "vase",
+        "ID": 82,
+        "Conf": 0.31,
+        "Distance": 2.43,
         "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
+          "x": 356.0,
+          "y": 299.0,
+          "z": 2428.620361328125
         },
-        "Prediction": null
-      },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214013.7837043,
+    "objects": [
       {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
+        "name": "chair",
+        "ID": 89,
+        "Conf": 0.33,
+        "Distance": 3.78,
         "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
+          "x": 955.5,
+          "y": 484.5,
+          "z": 3777.853759765625
         },
-        "Prediction": null
-      },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214014.0462697,
+    "objects": [
       {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.41,
-        "Distance": 11.33,
+        "name": "chair",
+        "ID": 89,
+        "Conf": 0.57,
+        "Distance": 3.4,
         "Position": {
-          "x": 727.5,
-          "y": 330.0,
-          "z": 11333.5615234375
+          "x": 646.0,
+          "y": 353.0,
+          "z": 3400.068359375
         },
-        "Prediction": null
-      },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214014.2976017,
+    "objects": [
+      {
+        "name": "couch",
+        "ID": 75,
+        "Conf": 0.49,
+        "Distance": 4.25,
+        "Position": {
+          "x": 328.5,
+          "y": 267.5,
+          "z": 4250.08544921875
+        },
+        "Prediction": {
+          "x": 13.333333333333336,
+          "y": 375.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214014.56176,
+    "objects": [
+      {
+        "name": "couch",
+        "ID": 55,
+        "Conf": 0.79,
+        "Distance": 3.78,
+        "Position": {
+          "x": 908.0,
+          "y": 176.5,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 962.1666666666666,
+          "y": 170.0
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214014.8166382,
+    "objects": [
+      {
+        "name": "couch",
+        "ID": -1,
+        "Conf": 0.71,
+        "Distance": 8.5,
+        "Position": {
+          "x": 795.0,
+          "y": 212.0,
+          "z": 8500.1708984375
+        },
+        "Prediction": {
+          "x": 962.1666666666666,
+          "y": 170.0
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214017.8327131,
+    "objects": [
       {
         "name": "potted plant",
-        "ID": 6,
+        "ID": 89,
+        "Conf": 0.83,
+        "Distance": 2.62,
+        "Position": {
+          "x": 929.0,
+          "y": 536.0,
+          "z": 2615.437255859375
+        },
+        "Prediction": {
+          "x": 914.6666666666666,
+          "y": 570.6666666666667
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214018.0893698,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 89,
+        "Conf": 0.84,
+        "Distance": 2.83,
+        "Position": {
+          "x": 904.5,
+          "y": 541.5,
+          "z": 2833.390380859375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214020.0953226,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": -1,
+        "Conf": 0.33,
+        "Distance": 3.4,
+        "Position": {
+          "x": 352.0,
+          "y": 395.0,
+          "z": 3400.068359375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214020.5915756,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": -1,
+        "Conf": 0.7,
+        "Distance": 8.5,
+        "Position": {
+          "x": 733.5,
+          "y": 527.5,
+          "z": 8500.1708984375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214020.846078,
+    "objects": [
+      {
+        "name": "tv",
+        "ID": -1,
+        "Conf": 0.41,
+        "Distance": 3.09,
+        "Position": {
+          "x": 565.0,
+          "y": 103.0,
+          "z": 3090.97119140625
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214021.1017122,
+    "objects": [
+      {
+        "name": "vase",
+        "ID": -1,
+        "Conf": 0.54,
+        "Distance": 3.78,
+        "Position": {
+          "x": 536.5,
+          "y": 314.5,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214021.3606026,
+    "objects": [
+      {
+        "name": "couch",
+        "ID": -1,
+        "Conf": 0.43,
+        "Distance": 2.83,
+        "Position": {
+          "x": 381.0,
+          "y": 286.5,
+          "z": 2833.390380859375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214021.6145132,
+    "objects": [
+      {
+        "name": "couch",
+        "ID": -1,
+        "Conf": 0.29,
+        "Distance": 2.83,
+        "Position": {
+          "x": 133.0,
+          "y": 112.0,
+          "z": 2833.390380859375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214021.8845258,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 61,
+        "Conf": 0.81,
+        "Distance": 11.33,
+        "Position": {
+          "x": 331.0,
+          "y": 145.5,
+          "z": 11333.5615234375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214022.146926,
+    "objects": [
+      {
+        "name": "couch",
+        "ID": 67,
+        "Conf": 0.87,
+        "Distance": 3.78,
+        "Position": {
+          "x": 253.5,
+          "y": 181.0,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214022.4190927,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 61,
+        "Conf": 0.79,
+        "Distance": 3.78,
+        "Position": {
+          "x": 319.5,
+          "y": 160.5,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 619.3333333333334,
+          "y": 384.0
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214022.6867526,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 61,
+        "Conf": 0.83,
+        "Distance": 3.78,
+        "Position": {
+          "x": 315.0,
+          "y": 183.5,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 349.8333333333333,
+          "y": 409.3333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214022.9441934,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 61,
+        "Conf": 0.74,
+        "Distance": 3.78,
+        "Position": {
+          "x": 305.0,
+          "y": 201.5,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 348.5,
+          "y": 421.5
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214023.2032328,
+    "objects": [
+      {
+        "name": "vase",
+        "ID": 130,
+        "Conf": 0.61,
+        "Distance": 3.4,
+        "Position": {
+          "x": 360.0,
+          "y": 326.5,
+          "z": 3400.068359375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214023.4313512,
+    "objects": [
+      {
+        "name": "vase",
+        "ID": 130,
+        "Conf": 0.59,
+        "Distance": 3.4,
+        "Position": {
+          "x": 360.5,
+          "y": 324.0,
+          "z": 3400.068359375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214023.6914468,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 61,
+        "Conf": 0.79,
+        "Distance": 3.78,
+        "Position": {
+          "x": 299.0,
+          "y": 200.0,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214023.9505742,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 61,
+        "Conf": 0.81,
+        "Distance": 3.78,
+        "Position": {
+          "x": 285.5,
+          "y": 200.0,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214024.211915,
+    "objects": [
+      {
+        "name": "couch",
+        "ID": 67,
+        "Conf": 0.56,
+        "Distance": 3.09,
+        "Position": {
+          "x": 132.5,
+          "y": 259.0,
+          "z": 3090.97119140625
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214024.4739394,
+    "objects": [
+      {
+        "name": "couch",
+        "ID": 67,
+        "Conf": 0.72,
+        "Distance": 3.78,
+        "Position": {
+          "x": 123.0,
+          "y": 296.0,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 503.16666666666663,
+          "y": 485.5
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214024.7283049,
+    "objects": [
+      {
+        "name": "couch",
+        "ID": 67,
+        "Conf": 0.77,
+        "Distance": 3.78,
+        "Position": {
+          "x": 156.5,
+          "y": 332.0,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 488.33333333333337,
+          "y": 508.6666666666667
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214024.9900935,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 142,
+        "Conf": 0.8,
+        "Distance": 3.78,
+        "Position": {
+          "x": 178.5,
+          "y": 301.5,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 488.5,
+          "y": 515.6666666666667
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214025.2385068,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 142,
+        "Conf": 0.79,
+        "Distance": 3.78,
+        "Position": {
+          "x": 664.5,
+          "y": 389.0,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214025.5017328,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 147,
+        "Conf": 0.65,
+        "Distance": 6.8,
+        "Position": {
+          "x": 1242.5,
+          "y": 401.0,
+          "z": 6800.13671875
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214025.7656515,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 147,
+        "Conf": 0.45,
+        "Distance": 6.8,
+        "Position": {
+          "x": 1229.0,
+          "y": 398.5,
+          "z": 6800.13671875
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214026.097823,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 142,
+        "Conf": 0.51,
+        "Distance": 8.5,
+        "Position": {
+          "x": 145.0,
+          "y": 242.5,
+          "z": 8500.1708984375
+        },
+        "Prediction": {
+          "x": 124.0,
+          "y": 201.5
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214026.363506,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 61,
+        "Conf": 0.65,
+        "Distance": 8.5,
+        "Position": {
+          "x": 199.0,
+          "y": 121.5,
+          "z": 8500.1708984375
+        },
+        "Prediction": {
+          "x": 70.0,
+          "y": 155.16666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214026.6281545,
+    "objects": [
+      {
+        "name": "sports ball",
+        "ID": 155,
+        "Conf": 0.52,
+        "Distance": 4.25,
+        "Position": {
+          "x": 432.5,
+          "y": 259.5,
+          "z": 4250.08544921875
+        },
+        "Prediction": {
+          "x": 144.66666666666666,
+          "y": 165.16666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214026.892582,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 75,
+        "Conf": 0.68,
+        "Distance": 3.78,
+        "Position": {
+          "x": 309.5,
+          "y": 148.5,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 179.83333333333334,
+          "y": 145.0
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214027.1518004,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 75,
+        "Conf": 0.8,
+        "Distance": 3.78,
+        "Position": {
+          "x": 344.5,
+          "y": 204.5,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 676.3333333333334,
+          "y": 297.6666666666667
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214027.4092746,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 162,
+        "Conf": 0.39,
+        "Distance": 3.78,
+        "Position": {
+          "x": 691.0,
+          "y": 210.5,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214027.6617267,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 130,
+        "Conf": 0.57,
+        "Distance": 8.5,
+        "Position": {
+          "x": 399.0,
+          "y": 311.5,
+          "z": 8500.1708984375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214027.9226906,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 75,
+        "Conf": 0.47,
+        "Distance": 2.83,
+        "Position": {
+          "x": 364.5,
+          "y": 172.5,
+          "z": 2833.390380859375
+        },
+        "Prediction": {
+          "x": 672.8333333333334,
+          "y": 397.1666666666667
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214028.1823075,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 75,
+        "Conf": 0.74,
+        "Distance": 3.78,
+        "Position": {
+          "x": 355.5,
+          "y": 272.0,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 665.3333333333334,
+          "y": 451.8333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214028.4411292,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 169,
+        "Conf": 0.52,
+        "Distance": 3.4,
+        "Position": {
+          "x": 396.5,
+          "y": 433.0,
+          "z": 3400.068359375
+        },
+        "Prediction": {
+          "x": 658.0,
+          "y": 489.6666666666667
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214028.7040274,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 169,
+        "Conf": 0.3,
+        "Distance": 3.78,
+        "Position": {
+          "x": 390.5,
+          "y": 391.5,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 187.66666666666666,
+          "y": 324.6666666666667
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214028.9675066,
+    "objects": [
+      {
+        "name": "vase",
+        "ID": 173,
+        "Conf": 0.49,
+        "Distance": 3.4,
+        "Position": {
+          "x": 403.0,
+          "y": 390.5,
+          "z": 3400.068359375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214029.217769,
+    "objects": [
+      {
+        "name": "vase",
+        "ID": 173,
+        "Conf": 0.37,
+        "Distance": 3.4,
+        "Position": {
+          "x": 403.5,
+          "y": 396.5,
+          "z": 3400.068359375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214029.4754229,
+    "objects": [
+      {
+        "name": "vase",
+        "ID": 173,
+        "Conf": 0.29,
+        "Distance": 3.4,
+        "Position": {
+          "x": 404.5,
+          "y": 396.0,
+          "z": 3400.068359375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214029.7338037,
+    "objects": [
+      {
+        "name": "vase",
+        "ID": 173,
+        "Conf": 0.33,
+        "Distance": 3.4,
+        "Position": {
+          "x": 406.5,
+          "y": 394.5,
+          "z": 3400.068359375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214029.989305,
+    "objects": [
+      {
+        "name": "vase",
+        "ID": 173,
+        "Conf": 0.3,
+        "Distance": 3.4,
+        "Position": {
+          "x": 223.0,
+          "y": 319.0,
+          "z": 3400.068359375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214030.2467265,
+    "objects": [
+      {
+        "name": "vase",
+        "ID": 189,
+        "Conf": 0.27,
+        "Distance": 0.0,
+        "Position": {
+          "x": 59.0,
+          "y": 267.5,
+          "z": 0.0
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214030.5139449,
+    "objects": [
+      {
+        "name": "cup",
+        "ID": 189,
         "Conf": 0.3,
         "Distance": 0.0,
         "Position": {
-          "x": 691.5,
-          "y": 244.0,
+          "x": 59.0,
+          "y": 267.5,
           "z": 0.0
         },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.34,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.37,
-        "Distance": 0.0,
-        "Position": {
-          "x": 697.0,
-          "y": 268.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "couch",
-        "ID": 13,
-        "Conf": 0.37,
-        "Distance": 11.33,
-        "Position": {
-          "x": 764.5,
-          "y": 360.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.33,
-        "Distance": 0.0,
-        "Position": {
-          "x": 691.5,
-          "y": 243.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "potted plant",
-        "ID": 6,
-        "Conf": 0.31,
-        "Distance": 0.0,
-        "Position": {
-          "x": 795.0,
-          "y": 309.0,
-          "z": 0.0
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.5,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
-      {
-        "name": "cup",
-        "ID": 7,
-        "Conf": 0.28,
-        "Distance": 11.33,
-        "Position": {
-          "x": 727.5,
-          "y": 329.0,
-          "z": 11333.5615234375
-        },
-        "Prediction": null
-      },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214030.7693741,
+    "objects": [
       {
         "name": "vase",
-        "ID": 19,
-        "Conf": 0.35,
+        "ID": 189,
+        "Conf": 0.28,
+        "Distance": 0.0,
+        "Position": {
+          "x": 60.0,
+          "y": 266.5,
+          "z": 0.0
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214031.034581,
+    "objects": [
+      {
+        "name": "vase",
+        "ID": 189,
+        "Conf": 0.38,
+        "Distance": 0.0,
+        "Position": {
+          "x": 62.0,
+          "y": 266.0,
+          "z": 0.0
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214031.3080409,
+    "objects": [
+      {
+        "name": "remote",
+        "ID": 186,
+        "Conf": 0.45,
+        "Distance": 0.0,
+        "Position": {
+          "x": 101.0,
+          "y": 299.0,
+          "z": 0.0
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214031.5736008,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 194,
+        "Conf": 0.5,
+        "Distance": 0.0,
+        "Position": {
+          "x": 962.0,
+          "y": 257.0,
+          "z": 0.0
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214031.8364394,
+    "objects": [
+      {
+        "name": "couch",
+        "ID": 168,
+        "Conf": 0.86,
         "Distance": 11.33,
         "Position": {
-          "x": 621.0,
-          "y": 391.0,
+          "x": 206.5,
+          "y": 286.0,
           "z": 11333.5615234375
         },
-        "Prediction": null
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214032.0981417,
+    "objects": [
+      {
+        "name": "couch",
+        "ID": 168,
+        "Conf": 0.86,
+        "Distance": 8.5,
+        "Position": {
+          "x": 290.5,
+          "y": 288.5,
+          "z": 8500.1708984375
+        },
+        "Prediction": {
+          "x": 351.33333333333337,
+          "y": 283.5
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214032.361621,
+    "objects": [
+      {
+        "name": "couch",
+        "ID": 168,
+        "Conf": 0.8,
+        "Distance": 8.5,
+        "Position": {
+          "x": 393.0,
+          "y": 303.0,
+          "z": 8500.1708984375
+        },
+        "Prediction": {
+          "x": 412.6666666666667,
+          "y": 299.3333333333333
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214032.622314,
+    "objects": [
+      {
+        "name": "potted plant",
+        "ID": 196,
+        "Conf": 0.74,
+        "Distance": 3.78,
+        "Position": {
+          "x": 556.5,
+          "y": 339.0,
+          "z": 3777.853759765625
+        },
+        "Prediction": {
+          "x": 408.3333333333333,
+          "y": 320.6666666666667
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214032.879958,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 201,
+        "Conf": 0.54,
+        "Distance": 3.4,
+        "Position": {
+          "x": 587.0,
+          "y": 452.0,
+          "z": 3400.068359375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214033.144198,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 201,
+        "Conf": 0.77,
+        "Distance": 3.4,
+        "Position": {
+          "x": 582.5,
+          "y": 370.5,
+          "z": 3400.068359375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214033.405656,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 201,
+        "Conf": 0.75,
+        "Distance": 3.4,
+        "Position": {
+          "x": 587.5,
+          "y": 412.5,
+          "z": 3400.068359375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214033.656075,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 201,
+        "Conf": 0.59,
+        "Distance": 3.4,
+        "Position": {
+          "x": 588.0,
+          "y": 398.0,
+          "z": 3400.068359375
+        },
+        "Prediction": {
+          "x": 328.5,
+          "y": 234.83333333333331
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214033.9159248,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 201,
+        "Conf": 0.71,
+        "Distance": 3.4,
+        "Position": {
+          "x": 588.5,
+          "y": 401.0,
+          "z": 3400.068359375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214034.178271,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 201,
+        "Conf": 0.73,
+        "Distance": 3.4,
+        "Position": {
+          "x": 416.0,
+          "y": 284.0,
+          "z": 3400.068359375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214034.4360526,
+    "objects": [
+      {
+        "name": "vase",
+        "ID": 221,
+        "Conf": 0.42,
+        "Distance": 0.0,
+        "Position": {
+          "x": 446.0,
+          "y": 306.0,
+          "z": 0.0
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214034.6903841,
+    "objects": [
+      {
+        "name": "vase",
+        "ID": 209,
+        "Conf": 0.4,
+        "Distance": 0.0,
+        "Position": {
+          "x": 589.5,
+          "y": 360.0,
+          "z": 0.0
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214034.944579,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 201,
+        "Conf": 0.64,
+        "Distance": 3.4,
+        "Position": {
+          "x": 578.5,
+          "y": 420.0,
+          "z": 3400.068359375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214035.2160652,
+    "objects": [
+      {
+        "name": "chair",
+        "ID": 201,
+        "Conf": 0.81,
+        "Distance": 3.4,
+        "Position": {
+          "x": 751.0,
+          "y": 468.5,
+          "z": 3400.068359375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214035.5156503,
+    "objects": [
+      {
+        "name": "vase",
+        "ID": 237,
+        "Conf": 0.47,
+        "Distance": 2.83,
+        "Position": {
+          "x": 825.5,
+          "y": 460.5,
+          "z": 2833.390380859375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214035.8039515,
+    "objects": [
+      {
+        "name": "sports ball",
+        "ID": 237,
+        "Conf": 0.61,
+        "Distance": 2.83,
+        "Position": {
+          "x": 467.0,
+          "y": 309.0,
+          "z": 2833.390380859375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214036.091432,
+    "objects": [
+      {
+        "name": "vase",
+        "ID": 244,
+        "Conf": 0.48,
+        "Distance": 3.4,
+        "Position": {
+          "x": 256.0,
+          "y": 269.0,
+          "z": 3400.068359375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214036.3660839,
+    "objects": [
+      {
+        "name": "vase",
+        "ID": 244,
+        "Conf": 0.5,
+        "Distance": 0.0,
+        "Position": {
+          "x": 607.5,
+          "y": 440.0,
+          "z": 0.0
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214036.633838,
+    "objects": [
+      {
+        "name": "sports ball",
+        "ID": 155,
+        "Conf": 0.56,
+        "Distance": 2.83,
+        "Position": {
+          "x": 818.5,
+          "y": 496.0,
+          "z": 2833.390380859375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214036.8844845,
+    "objects": [
+      {
+        "name": "vase",
+        "ID": 256,
+        "Conf": 0.45,
+        "Distance": 8.5,
+        "Position": {
+          "x": 811.0,
+          "y": 498.0,
+          "z": 8500.1708984375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214037.15006,
+    "objects": [
+      {
+        "name": "sports ball",
+        "ID": 256,
+        "Conf": 0.65,
+        "Distance": 2.83,
+        "Position": {
+          "x": 800.5,
+          "y": 497.5,
+          "z": 2833.390380859375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1747214037.4089065,
+    "objects": [
+      {
+        "name": "sports ball",
+        "ID": 256,
+        "Conf": 0.71,
+        "Distance": 2.83,
+        "Position": {
+          "x": 784.5,
+          "y": 481.5,
+          "z": 2833.390380859375
+        },
+        "Prediction": {
+          "x": 882.6666666666666,
+          "y": 562.6666666666666
+        }
       }
     ]
   }
